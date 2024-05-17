@@ -4,8 +4,8 @@ export interface ButtonProps {
   label: string;
 }
 
-const Button = (props: ButtonProps) => {
+const ButtonK8 = (props: ButtonProps) => {
   return <button>{props.label}</button>;
 };
 
-export default Button;
+export default ButtonK8;

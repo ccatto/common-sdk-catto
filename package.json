@@ -1,5 +1,8 @@
 {
-  "name": "common-sdk-catto",
+  "name": "@ccatto/common-sdk-catto",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ccatto"
+  },
   "version": "1.0.0",
   "description": "common-sdk-catto-react-components",
   "main": "dist/cjs/index.js",
